@@ -1,0 +1,30 @@
+Time,Ago,Site,Event
+2018-04-24 11:18:30,68s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Uplink Branch_13_HA Uplink2_BT_MPLS went offline
+2018-04-24 11:18:30,68s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Uplink Branch_13_HA Uplink2_Int went offline
+2018-04-24 11:16:33,4m ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Uplink Branch_13_HA Uplink2_Int came online
+2018-04-24 11:15:59,4m ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Uplink Branch_13_HA Uplink2_Int went offline
+2018-04-24 11:15:51,4m ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup AUX link state went UP
+2018-04-24 11:15:42,4m ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup AUX link state went DOWN
+2018-04-24 11:15:25,5m ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup AUX link state went UP
+2018-04-24 11:15:22,5m ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup AUX link state went DOWN
+2018-04-24 11:15:19,5m ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup AUX link state went UP
+2018-04-24 11:15:15,5m ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup AUX link state went DOWN
+2018-04-24 11:15:14,5m ago,Branch_13_HA [HA] 3070-SD [oak-sh1051] HA Master,Appliance went offline
+2018-04-24 11:14:52,18s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went UP
+2018-04-24 11:14:49,21s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went DOWN
+2018-04-24 11:15:59,19s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Uplink Branch_13_HA Uplink2_Int went offline
+2018-04-24 11:15:51,27s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went UP
+2018-04-24 11:15:42,36s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went DOWN
+2018-04-24 11:15:25,53s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went UP
+2018-04-24 11:15:22,56s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went DOWN
+2018-04-24 11:15:19,59s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went UP
+2018-04-24 11:15:15,63s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went DOWN
+2018-04-24 11:15:14,64s ago,Branch_13_HA [HA] 3070-SD [oak-sh1051] HA Master,Appliance went offline
+2018-04-24 11:14:46,24s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup,Appliance Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master is now the HA Master
+2018-04-24 11:14:41,29s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went UP
+2018-04-24 11:14:39,31s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went DOWN
+2018-04-24 11:14:33,37s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went UP
+2018-04-24 11:14:31,39s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went DOWN
+2018-04-24 11:14:25,45s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went UP
+2018-04-24 11:14:20,50s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went DOWN
+2018-04-24 11:14:11,59s ago,Branch_13_HA [HA] 3070-SD [oak-sh1051] HA Master,Appliance rebooting

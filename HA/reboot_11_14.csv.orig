@@ -1,0 +1,117 @@
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_18_HA and site Branch_13_HA over Internet on uplink uplink-Uplink2-82d3db767346b4f9 went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_18_HA and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink2-75e273144581cd21 went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_17 and site Branch_13_HA over Internet on uplink uplink-Uplink-4d669f36aca9c907 went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_15_HA_1 and site Branch_13_HA over Internet on uplink uplink-Uplink2Int-e9cef1607a4e6b9f went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_15_HA_1 and site Branch_13_HA over Internet on uplink uplink-Uplink-351659977de30ba8 went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_15_HA_1 and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-39c072071b3c3092 went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_15_HA_1 and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink2MPLS-a11b81f053d66d72 went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_3 and site Branch_13_HA over Internet on uplink uplink-Uplink-b533c09832bc02a9 went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_3 and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-57e8c8d6f294fd9b went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site DC2 and site Branch_13_HA over BT_MPLS on uplink dcuplink-DCUplink-41a3f3a54741d7e4 went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site DC2 and site Branch_13_HA over Internet on uplink dcuplink-DC2Uplink-cae30623773c9e3c went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_14 and site Branch_13_HA over Internet on uplink uplink-Uplink-eed0e5dff8040232 went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_12_HA and site Branch_13_HA over Internet on uplink uplink-Uplink2-be5c2f804bb8311f went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_12_HA and site Branch_13_HA over Internet on uplink uplink-Uplink-0a4882f5fe501b03 went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_12_HA and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink2-c0bbd9e198e9e807 went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_12_HA and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-a5056141376bff8e went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_10_HA and site Branch_13_HA over Internet on uplink uplink-Uplink2-fb8170688f7a066d went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_10_HA and site Branch_13_HA over Internet on uplink uplink-Uplink-c1bf669a65ab702e went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_11 and site Branch_13_HA over Internet on uplink uplink-Uplink-d34d43554fd283c7 went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_111 and site Branch_13_HA over Internet on uplink uplink-Uplink-8d68eaa51a34af2b went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_111 and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-05356ff5c5460078 went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_5_HA and site Branch_13_HA over Internet on uplink uplink-Uplink2-9db625d5ed1ff56b went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_5_HA and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-f3c422a6d88a491c went offline
+2018-04-24 11:18:52,46s ago,AutoVPN tunnel between site Branch_7 and site Branch_13_HA over Internet on uplink uplink-Uplink-5e3565f8879f2144 went offline
+2018-04-24 11:18:51,47s ago,AutoVPN tunnel between site Branch_7 and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-d3d8c059ca177827 went offline
+2018-04-24 11:18:51,47s ago,AutoVPN tunnel between site Branch_2_HA and site Branch_13_HA over Internet on uplink uplink-Uplink-c591a1c229d69ee8 went offline
+2018-04-24 11:18:51,47s ago,AutoVPN tunnel between site Branch_2_HA and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-2049ce5139e20bfa went offline
+2018-04-24 11:18:51,47s ago,AutoVPN tunnel between site Branch_1 and site Branch_13_HA over Internet on uplink uplink-Uplink-75dc4d6bc40ef0d7 went offline
+2018-04-24 11:18:51,47s ago,AutoVPN tunnel between site Branch_1 and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-44d10a05e064d703 went offline
+2018-04-24 11:18:51,47s ago,AutoVPN tunnel between site DC and site Branch_13_HA over BT_MPLS on uplink dcuplink-DCUplink-5d58c645f831dedc went offline
+2018-04-24 11:18:51,47s ago,AutoVPN tunnel between site DC and site Branch_13_HA over Internet on uplink dcuplink-DCUplink-6daf95e6f8e7bb8c went offline
+2018-04-24 11:18:47,51s ago,admin,Path Rule Traffic_rule_B12_DC edited: QoS priority changed from '>> Automatic <<' to '>> Custom DSCP <<'.marking changed from '0 (Clear)' to '32 (CS4)'.
+2018-04-24 11:18:30,68s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Uplink Branch_13_HA Uplink2_BT_MPLS went offline
+2018-04-24 11:18:30,68s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Uplink Branch_13_HA Uplink2_Int went offline
+2018-04-24 11:16:33,4m ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Uplink Branch_13_HA Uplink2_Int came online
+2018-04-24 11:15:59,4m ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Uplink Branch_13_HA Uplink2_Int went offline
+2018-04-24 11:15:51,4m ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup AUX link state went UP
+2018-04-24 11:15:44,4m ago,AutoVPN tunnel between site Branch_111 and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-05356ff5c5460078 went offline
+2018-04-24 11:15:44,4m ago,AutoVPN tunnel between site Branch_7 and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-d3d8c059ca177827 went offline
+2018-04-24 11:15:44,4m ago,AutoVPN tunnel between site Branch_7 and site Branch_13_HA over Internet on uplink uplink-Uplink-5e3565f8879f2144 went offline
+2018-04-24 11:15:44,4m ago,AutoVPN tunnel between site DC and site Branch_13_HA over BT_MPLS on uplink dcuplink-DCUplink-5d58c645f831dedc went offline
+2018-04-24 11:15:42,4m ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup AUX link state went DOWN
+2018-04-24 11:15:33,5m ago,AutoVPN tunnel between site Branch_12_HA and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-a5056141376bff8e went offline
+2018-04-24 11:15:33,5m ago,AutoVPN tunnel between site Branch_12_HA and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink2-c0bbd9e198e9e807 went offline
+2018-04-24 11:15:25,5m ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup AUX link state went UP
+2018-04-24 11:15:23,5m ago,AutoVPN tunnel between site Branch_13_HA and site Branch_17 over Internet on uplink uplink-Uplink-597f4c7cc037e3dc went offline
+2018-04-24 11:15:23,5m ago,AutoVPN tunnel between site Branch_13_HA and site Branch_15_HA_1 over Internet on uplink uplink-Uplink-597f4c7cc037e3dc went offline
+2018-04-24 11:15:23,5m ago,AutoVPN tunnel between site Branch_13_HA and site Branch_15_HA_1 over Internet on uplink uplink-Uplink-597f4c7cc037e3dc went offline
+2018-04-24 11:15:23,5m ago,AutoVPN tunnel between site Branch_13_HA and site Branch_15_HA_1 over BT_MPLS on uplink uplink-Uplink-00b6f0a86613803f went offline
+2018-04-24 11:15:23,5m ago,AutoVPN tunnel between site Branch_13_HA and site Branch_15_HA_1 over BT_MPLS on uplink uplink-Uplink-00b6f0a86613803f went offline
+2018-04-24 11:15:23,5m ago,AutoVPN tunnel between site Branch_13_HA and site Branch_3 over BT_MPLS on uplink uplink-Uplink-00b6f0a86613803f went offline
+2018-04-24 11:15:23,5m ago,AutoVPN tunnel between site Branch_13_HA and site Branch_3 over Internet on uplink uplink-Uplink-597f4c7cc037e3dc went offline
+2018-04-24 11:15:23,5m ago,AutoVPN tunnel between site Branch_13_HA and site DC2 over BT_MPLS on uplink uplink-Uplink-00b6f0a86613803f went offline
+2018-04-24 11:15:23,5m ago,AutoVPN tunnel between site Branch_13_HA and site DC2 over Internet on uplink uplink-Uplink-597f4c7cc037e3dc went offline
+2018-04-24 11:15:23,5m ago,AutoVPN tunnel between site Branch_13_HA and site Branch_14 over Internet on uplink uplink-Uplink-597f4c7cc037e3dc went offline
+2018-04-24 11:15:23,5m ago,AutoVPN tunnel between site Branch_12_HA and site Branch_13_HA over Internet on uplink uplink-Uplink2-be5c2f804bb8311f went offline
+2018-04-24 11:15:23,5m ago,AutoVPN tunnel between site Branch_12_HA and site Branch_13_HA over Internet on uplink uplink-Uplink-0a4882f5fe501b03 went offline
+2018-04-24 11:15:23,5m ago,AutoVPN tunnel between site Branch_11 and site Branch_13_HA over Internet on uplink uplink-Uplink-d34d43554fd283c7 went offline
+2018-04-24 11:15:23,5m ago,AutoVPN tunnel between site Branch_111 and site Branch_13_HA over Internet on uplink uplink-Uplink-8d68eaa51a34af2b went offline
+2018-04-24 11:15:23,5m ago,AutoVPN tunnel between site Branch_5_HA and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-f3c422a6d88a491c went offline
+2018-04-24 11:15:23,5m ago,AutoVPN tunnel between site Branch_5_HA and site Branch_13_HA over Internet on uplink uplink-Uplink2-9db625d5ed1ff56b went offline
+2018-04-24 11:15:22,5m ago,AutoVPN tunnel between site Branch_2_HA and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-2049ce5139e20bfa went offline
+2018-04-24 11:15:22,5m ago,AutoVPN tunnel between site Branch_2_HA and site Branch_13_HA over Internet on uplink uplink-Uplink-c591a1c229d69ee8 went offline
+2018-04-24 11:15:22,5m ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup AUX link state went DOWN
+2018-04-24 11:15:22,5m ago,AutoVPN tunnel between site DC and site Branch_13_HA over Internet on uplink dcuplink-DCUplink-6daf95e6f8e7bb8c went offline
+2018-04-24 11:15:19,5m ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup AUX link state went UP
+2018-04-24 11:15:15,5m ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup AUX link state went DOWN
+2018-04-24 11:15:14,5m ago,Branch_13_HA [HA] 3070-SD [oak-sh1051] HA Master,Appliance went offline
+2018-04-24 11:15:00,10s ago,AutoVPN tunnel between site Branch_10_HA and site Branch_13_HA over Internet on uplink uplink-Uplink2-fb8170688f7a066d went offline
+2018-04-24 11:15:00,10s ago,AutoVPN tunnel between site Branch_10_HA and site Branch_13_HA over Internet on uplink uplink-Uplink-c1bf669a65ab702e went offline
+2018-04-24 11:15:00,10s ago,AutoVPN tunnel between site Branch_1 and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-44d10a05e064d703 went offline
+2018-04-24 11:15:00,10s ago,AutoVPN tunnel between site Branch_1 and site Branch_13_HA over Internet on uplink uplink-Uplink-75dc4d6bc40ef0d7 went offline
+2018-04-24 11:14:52,18s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went UP
+2018-04-24 11:14:49,21s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went DOWN
+2018-04-24 11:14:49,21s ago,AutoVPN tunnel between site Branch_13_HA and site Branch_18_HA over BT_MPLS on uplink uplink-Uplink-00b6f0a86613803f went offline
+2018-04-24 11:14:49,21s ago,AutoVPN tunnel between site Branch_13_HA and site Branch_18_HA over Internet on uplink uplink-Uplink-597f4c7cc037e3dc went offline
+2018-04-24 11:15:59,19s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Uplink Branch_13_HA Uplink2_Int went offline
+2018-04-24 11:15:51,27s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went UP
+2018-04-24 11:15:44,34s ago,AutoVPN tunnel between site Branch_111 and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-05356ff5c5460078 went offline
+2018-04-24 11:15:44,34s ago,AutoVPN tunnel between site Branch_7 and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-d3d8c059ca177827 went offline
+2018-04-24 11:15:44,34s ago,AutoVPN tunnel between site Branch_7 and site Branch_13_HA over Internet on uplink uplink-Uplink-5e3565f8879f2144 went offline
+2018-04-24 11:15:44,34s ago,AutoVPN tunnel between site DC and site Branch_13_HA over BT_MPLS on uplink dcuplink-DCUplink-5d58c645f831dedc went offline
+2018-04-24 11:15:42,36s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went DOWN
+2018-04-24 11:15:33,45s ago,AutoVPN tunnel between site Branch_12_HA and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-a5056141376bff8e went offline
+2018-04-24 11:15:33,45s ago,AutoVPN tunnel between site Branch_12_HA and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink2-c0bbd9e198e9e807 went offline
+2018-04-24 11:15:25,53s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went UP
+2018-04-24 11:15:23,55s ago,AutoVPN tunnel between site Branch_13_HA and site Branch_17 over Internet on uplink uplink-Uplink-597f4c7cc037e3dc went offline
+2018-04-24 11:15:23,55s ago,AutoVPN tunnel between site Branch_13_HA and site Branch_15_HA_1 over Internet on uplink uplink-Uplink-597f4c7cc037e3dc went offline
+2018-04-24 11:15:23,55s ago,AutoVPN tunnel between site Branch_13_HA and site Branch_15_HA_1 over Internet on uplink uplink-Uplink-597f4c7cc037e3dc went offline
+2018-04-24 11:15:23,55s ago,AutoVPN tunnel between site Branch_13_HA and site Branch_15_HA_1 over BT_MPLS on uplink uplink-Uplink-00b6f0a86613803f went offline
+2018-04-24 11:15:23,55s ago,AutoVPN tunnel between site Branch_13_HA and site Branch_15_HA_1 over BT_MPLS on uplink uplink-Uplink-00b6f0a86613803f went offline
+2018-04-24 11:15:23,55s ago,AutoVPN tunnel between site Branch_13_HA and site Branch_3 over BT_MPLS on uplink uplink-Uplink-00b6f0a86613803f went offline
+2018-04-24 11:15:23,55s ago,AutoVPN tunnel between site Branch_13_HA and site Branch_3 over Internet on uplink uplink-Uplink-597f4c7cc037e3dc went offline
+2018-04-24 11:15:23,55s ago,AutoVPN tunnel between site Branch_13_HA and site DC2 over BT_MPLS on uplink uplink-Uplink-00b6f0a86613803f went offline
+2018-04-24 11:15:23,55s ago,AutoVPN tunnel between site Branch_13_HA and site DC2 over Internet on uplink uplink-Uplink-597f4c7cc037e3dc went offline
+2018-04-24 11:15:23,55s ago,AutoVPN tunnel between site Branch_13_HA and site Branch_14 over Internet on uplink uplink-Uplink-597f4c7cc037e3dc went offline
+2018-04-24 11:15:23,55s ago,AutoVPN tunnel between site Branch_12_HA and site Branch_13_HA over Internet on uplink uplink-Uplink2-be5c2f804bb8311f went offline
+2018-04-24 11:15:23,55s ago,AutoVPN tunnel between site Branch_12_HA and site Branch_13_HA over Internet on uplink uplink-Uplink-0a4882f5fe501b03 went offline
+2018-04-24 11:15:23,55s ago,AutoVPN tunnel between site Branch_11 and site Branch_13_HA over Internet on uplink uplink-Uplink-d34d43554fd283c7 went offline
+2018-04-24 11:15:23,55s ago,AutoVPN tunnel between site Branch_111 and site Branch_13_HA over Internet on uplink uplink-Uplink-8d68eaa51a34af2b went offline
+2018-04-24 11:15:23,55s ago,AutoVPN tunnel between site Branch_5_HA and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-f3c422a6d88a491c went offline
+2018-04-24 11:15:23,55s ago,AutoVPN tunnel between site Branch_5_HA and site Branch_13_HA over Internet on uplink uplink-Uplink2-9db625d5ed1ff56b went offline
+2018-04-24 11:15:22,56s ago,AutoVPN tunnel between site Branch_2_HA and site Branch_13_HA over BT_MPLS on uplink uplink-Uplink-2049ce5139e20bfa went offline
+2018-04-24 11:15:22,56s ago,AutoVPN tunnel between site Branch_2_HA and site Branch_13_HA over Internet on uplink uplink-Uplink-c591a1c229d69ee8 went offline
+2018-04-24 11:15:22,56s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went DOWN
+2018-04-24 11:15:22,56s ago,AutoVPN tunnel between site DC and site Branch_13_HA over Internet on uplink dcuplink-DCUplink-6daf95e6f8e7bb8c went offline
+2018-04-24 11:15:19,59s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went UP
+2018-04-24 11:15:15,63s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went DOWN
+2018-04-24 11:15:14,64s ago,Branch_13_HA [HA] 3070-SD [oak-sh1051] HA Master,Appliance went offline
+2018-04-24 11:14:46,24s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup,Appliance Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master is now the HA Master
+2018-04-24 11:14:41,29s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went UP
+2018-04-24 11:14:39,31s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went DOWN
+2018-04-24 11:14:33,37s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went UP
+2018-04-24 11:14:31,39s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went DOWN
+2018-04-24 11:14:25,45s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went UP
+2018-04-24 11:14:20,50s ago,Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Backup,Port Branch_13_HA [HA] 3070-SD [oak-sh1052] HA Master AUX link state went DOWN
+2018-04-24 11:14:11,59s ago,Branch_13_HA [HA] 3070-SD [oak-sh1051] HA Master,Appliance rebooting
