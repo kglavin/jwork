@@ -1,9 +1,10 @@
 #
-#  Module inspired by SPELL paper
+#  Module inspired by SPELL -- Streaming Parsing of System Event Logs
+#               paper : https://www.cs.utah.edu/~lifeifei/papers/spell.pdf
 #  parses logfiles into a set of messages with wildcarding for the positions
 #  within the messages where this is expected differences.
 #
-#  These differences are the parameterizatoin of the log message into its generic form.
+#  These differences are the parameterization of the log message into its generic form.
 #
 #
 
