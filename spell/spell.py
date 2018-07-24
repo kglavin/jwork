@@ -7,7 +7,7 @@
 #  These differences are the parameterization of the log message into its generic form.
 #
 #
-#%%
+#
 
 
 
