@@ -1,5 +1,6 @@
 
 import pytest
+import json
 from spell import LCSObject, LCSMap, LCSMultiMap
 
 st1 = 'daemon service x regen started'
@@ -90,3 +91,13 @@ def test_mm_match_proj2_no_s():
    a,v = mm.getMatch('proj2',sdiff_list)
    assert a == None
    
+def test_dumpDict():
+   d = mm.dumpDict()
+   j = json.dumps(d)
+   mm2=LCSMultiMap()
+   d = json.loads(j)
+   mm2.loadDict(d)
+   #import pdb; pdb.set_trace()
+   dd = mm.dumpDict()
+   dd2 = mm2.dumpDict()
+   assert dd.keys() == dd2.keys()

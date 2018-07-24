@@ -24,6 +24,13 @@ class LCSObject:
         self.paramVector = []
         self.lineIds.append(id)
         self.LCSseq = seq
+        tp = []
+        sequenceIndex = 0;        
+        for x in self.LCSseq:
+            sequenceIndex = sequenceIndex+1
+            if x == "*":
+                tp.append(sequenceIndex)
+        self.paramVector = tp
         
     
     def getLCS(self,seq):
@@ -95,6 +102,21 @@ class LCSObject:
     
     def join(self):
         return("".join(self.LCSseq))
+
+    def dumpDict(self):
+        d = {}
+        d['seq'] = self.LCSseq
+        d['lineids'] = self.lineIds
+        return d
+
+    def loadDict(self, d):
+        if d is not None:
+            if 'seq' in d:
+                self.LCSseq = d['seq']
+            if 'paramvec' in d:
+                self.paramVector = d['paramvec']
+            if 'lineids' in d:
+                self.lineIds = d['lineIds']            
     
     def debug(self,ident=""):
         print(ident+'LCSOBJ:lineIds num = ',len(self.lineIds))
@@ -145,7 +167,29 @@ class LCSMap:
     
     def len(self):
         return(len(self.LCSObjects))
-    
+
+    def dumpDict(self):
+        d = {}
+        count = 0
+        d['lineId'] = self.lineId
+        for obj in self.LCSObjects:
+            count = count + 1
+            d['seq' + str(count)] = obj.dumpDict()
+        return d
+
+    def loadDict(self, d):
+        count = 0
+        if d is not None:
+            for (k,v) in d.items():
+                if k == 'lineId':
+                    self.lineId = v
+                else:
+                    # its a "seq#" dict,
+                    for kk,vv in v.items():
+                        if kk == 'seq':
+                            self.LCSObjects.append(LCSObject(vv,self.lineId))
+                            self.lineId = self.lineId +1
+                            
     def debug(self,ident= ""):
         did='-m--'
         print(ident+did+'LCSMap:lineId = ',self.lineId)
@@ -216,7 +260,21 @@ class LCSMultiMap:
                 for x in ret.paramVector:
                     parms.append((x,seq[x-1]))    
         return ret, parms
-            
+
+    def dumpDict(self):
+        d = {}
+        for k,v in self.LCSMaps.items():
+            d[k] = v.dumpDict()
+        return d
+
+    def loadDict(self, d):
+        if d is not None:
+            for k,v in d.items():
+                if k not in self.LCSMaps:
+                    map = LCSMap()
+                    self.LCSMaps[k] = map
+                    map.loadDict(v)
+    
     def debug(self,ident=""):
         did='-d---'
         for k,v in self.LCSMaps.items():
